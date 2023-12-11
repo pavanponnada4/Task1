@@ -1,0 +1,27 @@
+h1{
+    color: rgb(252, 26, 26);
+    font-weight: bold;
+    font-size: xx-large;
+    padding-left: 630px;
+    margin-left: 70px;
+    margin-right: 90px;
+    background-color: rgb(155, 127, 255);
+}
+img{
+    margin-right: 70px;
+    margin-left: 70px;
+    
+}
+h2{
+    color: blueviolet;
+    padding-left: 65px;
+    padding-top: 5px;
+    
+    
+}
+p{
+     font-size: larger;
+     margin-left: 70px;
+     margin-right: 85px;
+     margin-top: 20px;
+}
